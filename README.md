@@ -14,23 +14,26 @@ This project is a **simple console-based Banking System** in C++ where users can
 
 ===== BANK MENU =====
 
-1.Create Account
+1. Create Account
 
-2.Deposit Money
+2. Deposit Money
 
-3.Withdraw Money
+3. Withdraw Money
 
-4.Check Balance
+4. Check Balance
 
-5.Exit
+5. Exit
 
 Enter your choice: 1
 
 Enter your name: Eman
+
 Enter initial deposit: 5000
+
 Account created successfully!
 
 Enter your choice: 4
+
 Current Balance: Rs. 5000
 
 
